@@ -1,0 +1,16 @@
+{
+    "name": "jorgeuos/simple-sftp",
+    "description": "Allows sending data to sftp storage.",
+    "type": "library",
+    "config": {
+        "platform": {
+            "php": "7.3"
+        },
+        "prepend-autoloader": false,
+        "sort-packages": true
+    },
+    "require": {
+        "php": "^7.3",
+        "phpseclib/phpseclib": "~3.0"
+    }
+}
