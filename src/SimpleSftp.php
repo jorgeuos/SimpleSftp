@@ -25,7 +25,7 @@ use phpseclib3\Net\SFTP;
  * @author Jorge Powers
  * @package Jorgeuos\SimpleSftp
  */
-class SimpleSftpClient
+class SimpleSftp
 {
     /** @var String */
     private $url;
