@@ -1,7 +1,21 @@
 {
     "name": "jorgeuos/simple-sftp",
     "description": "Allows sending data to sftp storage.",
+    "license": "MIT",
+    "keywords": [
+        "sftp",
+        "php",
+        "simple"
+    ],
     "type": "library",
+    "authors": [
+        {
+            "name": "Jorge Powers",
+            "email": "jorge.capow@gmail.com",
+            "homepage": "https://jorgeuos.github.io/",
+            "role": "KickAss"
+        }
+    ],
     "config": {
         "platform": {
             "php": "7.3"
